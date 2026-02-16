@@ -1,16 +1,12 @@
-# React + Vite
+## Screenshots
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Home view
+<img width="1268" height="813" alt="Screenshot 2026-02-16 233410" src="https://github.com/user-attachments/assets/ddc5c5a9-ab91-482d-aa72-bd16397fbb35" />
+### Add Contact View
+<img width="1267" height="578" alt="Screenshot 2026-02-16 233440" src="https://github.com/user-attachments/assets/c426f0bc-b63a-4798-87e9-2df46fb9d995" />
+### Contact List
+<img width="1269" height="363" alt="Screenshot 2026-02-16 233448" src="https://github.com/user-attachments/assets/41fbe72b-14ad-42cc-9c4d-1d48ebd8469e" />
+### Contact Details
+<img width="1271" height="399" alt="Screenshot 2026-02-16 233454" src="https://github.com/user-attachments/assets/dfb1d1db-4e98-4d34-8807-73162038cb7b" />
+## NotFound Page
+<img width="1266" height="384" alt="Screenshot 2026-02-16 233503" src="https://github.com/user-attachments/assets/23208c5d-6235-4752-ac23-ad52ea1ca5e8" />
